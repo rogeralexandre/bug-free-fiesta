@@ -1,0 +1,11 @@
+﻿Exemplo para uso do Oracle para .Net Core app
+
+Usado o tutorial da Oracle
+	https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/dotnet/ODPNET_Core_get_started/index.html
+
+Nuget usado foi 
+	Install-Package Oracle.ManagedDataAccess.Core -Version 2.19.80
+
+Trecho abaixo foi retirado do tutorial
+	No startup.cs, adicionar a referência para Oracle.ManagedDataAccess.Client namespace.
+
